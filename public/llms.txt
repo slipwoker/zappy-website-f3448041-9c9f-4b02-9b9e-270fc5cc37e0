@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://-f3448041.zappy5.app
+https://example.com
 יהלי מובילים אתכם הביתה עם וילות ובתים פרטיים ברמת גימור ללא פשרות. כנסו עכשיו לצפות בפרויקטים החדשים ולהתחיל את הפרק הבא בחייכם.
 
 ### פרויקטים
-https://-f3448041.zappy5.app/projects
+https://example.com/projects
 צפו בתיק העבודות העשיר של יהלי: וילות מעוצבות, שכונות יוקרתיות ובתים פרטיים שנבנו בסטנדרטים הגבוהים ביותר. ההשראה לבית הבא שלכם מתחילה כאן.
 
 ### איכות בנייה
-https://-f3448041.zappy5.app/quality
+https://example.com/quality
 אנחנו לא מתפשרים על החומרים, הדיוק והגימור שהופכים בית ליצירת מופת. גלו איך יהלי מביאים את בשורת האיכות לכל סנטימטר בנכס שלכם.
 
 ### אודות
-https://-f3448041.zappy5.app/about
+https://example.com/about
 יהלי זה יותר מקבלן – זו משפחה עם תשוקה אמיתית ליצור את הבית שחלמתם עליו. בואו לשמוע את הסיפור שלנו ולהבין למה הלקוחות בוטחים בנו.
 
 ### צור קשר
-https://-f3448041.zappy5.app/contact
+https://example.com/contact
 השאירו פרטים ונחזור אליכם עם כל מה שצריך לדעת כדי להתחיל את הדרך לבית היוקרה שלכם. יהלי כאן כדי להפוך את החלום שלכם לכתובת אמיתית.
 
 ### תודה שפניתם אלינו
-https://-f3448041.zappy5.app/thank-you
+https://example.com/thank-you
 יהלי - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-f3448041.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-f3448041.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-f3448041.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-f3448041.zappy5.app/quality
-- Endpoint: https://-f3448041.zappy5.app/api/email/contact-form
+- URL: https://example.com/quality
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Real Estate
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-f3448041.zappy5.app/sitemap.xml
-- Robots: https://-f3448041.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-f3448041.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
